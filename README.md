@@ -95,9 +95,8 @@ nda-property/
 ## 📞 Kontak
 
 - Email: info@ndaproperty.com
-- Telepon: +62 812-3456-7890
-- Alamat: Jl. Sudirman No. 123, Jakarta Selatan
+
 
 ## 📄 License
 
-© 2024 NDA Property. All rights reserved.
+© 2026 NDA Property. All rights reserved.
